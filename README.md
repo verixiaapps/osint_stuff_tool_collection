@@ -2496,6 +2496,7 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Code understanding tools list](https://github.com/cipher387/code-understanding-tools) | Tools for understanding other people's code |source
 | [Awesome grep](https://github.com/cipher387/awesome-grep) | List of GREP modifications and alternatives for a variety of purposes |
 | [Maltego transforms list](https://github.com/cipher387/maltego-transforms-list) | list of tools that handle different data and make it usable in Maltego |
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 * * *
 
